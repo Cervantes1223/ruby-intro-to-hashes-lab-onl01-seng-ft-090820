@@ -30,10 +30,9 @@ def monopoly_with_third_tier
 	onopoly = {
     railroads: {
       pices: 4,
-      names: {},
-      rent_in_dollars: {}
-    }	
-  }
+      names: {
+        
+     
 
 end
 
